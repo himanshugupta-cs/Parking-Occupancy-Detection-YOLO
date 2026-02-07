@@ -18,4 +18,4 @@ SmartParkAI is a computer vision-based solution designed to automate parking lot
 
 ## Collaboration & Attribution
 * **Model Training & Development:** Himanshu Gupta
-* **Dataset Credits:** Arnav Jain (via Roboflow Universe)
+* **Dataset Credits:** Himanshu Gupta & Arnav Jain 
